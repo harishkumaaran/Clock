@@ -1,4 +1,4 @@
-# Unifeed Blog Post Challenge
+# Clock js
 
 This is a Challenge accepted from [Wesbos30](https://www.youtube.com/watch?v=xu87YWbr4X0&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=3). It is static Landing page designed using Tailwind css.
 
@@ -14,4 +14,4 @@ This is a Challenge accepted from [Wesbos30](https://www.youtube.com/watch?v=xu8
 &nbsp;
 
 # Credits
-- This Clock is done as a part of my Front end curriculum at Aekam Labs, Coimbatore.
+- This Clock is done with reference to wesbos 30 days js challenges.
